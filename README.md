@@ -1,8 +1,10 @@
-# hi, i'm ayra! ✳
+# hi, i'm ayra!
 
-**CS + Psychology @ Rutgers.**
+**CS + Psychology @ Rutgers University**
 
-I build backend systems, full-stack applications, and AI tools—and really like understanding how things work.
+I build backend systems, full-stack applications, and AI tools. I like understanding how things work, especially the complicated parts.
+
+[Portfolio](https://ayra-agrawal-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ayra-agrawal/) · [Email](mailto:ayraagrawal@gmail.com)
 
 ### Currently
 
@@ -12,9 +14,9 @@ I build backend systems, full-stack applications, and AI tools—and really like
 
 ### Things I've built
 
-- **[Recall](https://github.com/ayraagrawal-byte/recall)** — AI research workspace with source-linked answers. [Demo](https://recall-research-workspace-demo.vercel.app/) · [Story](https://ayra-agrawal-portfolio.vercel.app/work/recall)
-- **[TraceLab](https://github.com/ayraagrawal-byte/tracelab)** — Distributed tracing and observability backend. [Story](https://ayra-agrawal-portfolio.vercel.app/work/tracelab)
-- **[SpotOn](https://github.com/shuknuk/hackru-fall-2026)** — Browser-based pose analysis, built with two teammates at HackRU. [Demo](https://menhel-motion.vercel.app/)
+- **[Recall](https://github.com/ayraagrawal-byte/recall)** — AI research workspace with source-linked answers. [Live Demo](https://recall-research-workspace-demo.vercel.app/) · [Case Study](https://ayra-agrawal-portfolio.vercel.app/work/recall)
+- **[TraceLab](https://github.com/ayraagrawal-byte/tracelab)** — Distributed tracing and observability backend. [Case Study](https://ayra-agrawal-portfolio.vercel.app/work/tracelab)
+- **[SpotOn](https://github.com/shuknuk/hackru-fall-2026)** — Browser-based pose analysis, built with two teammates at HackRU. [Live Demo](https://menhel-motion.vercel.app/)
 
 ### Tools I work with
 
@@ -36,7 +38,7 @@ I build backend systems, full-stack applications, and AI tools—and really like
 <img src="assets/tech/tailwindcss.svg" width="20" height="20" alt="" align="center" /> Tailwind CSS
 </p>
 
-**Backend + data**
+**Backend + Data**
 
 <p>
 <img src="assets/tech/fastapi.svg" width="20" height="20" alt="" align="center" /> FastAPI &nbsp;·&nbsp;
@@ -45,7 +47,7 @@ I build backend systems, full-stack applications, and AI tools—and really like
 <img src="assets/tech/supabase.svg" width="20" height="20" alt="" align="center" /> Supabase
 </p>
 
-**Tools + infrastructure**
+**Tools + Infrastructure**
 
 <p>
 <img src="assets/tech/docker.svg" width="20" height="20" alt="" align="center" /> Docker &nbsp;·&nbsp;
@@ -53,7 +55,3 @@ I build backend systems, full-stack applications, and AI tools—and really like
 <img src="assets/tech/pytest.svg" width="20" height="20" alt="" align="center" /> Pytest &nbsp;·&nbsp;
 <img src="assets/tech/githubactions.svg" width="20" height="20" alt="" align="center" /> GitHub Actions
 </p>
-
-### Find me elsewhere
-
-[Portfolio](https://ayra-agrawal-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ayra-agrawal/) · [Email](mailto:ayraagrawal@gmail.com)
