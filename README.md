@@ -5,8 +5,8 @@
 I build backend systems, full-stack applications, and AI tools. I like understanding how things work, especially the complicated parts.
 
 <p>
-<a href="https://ayra-agrawal-portfolio.vercel.app/"><img src="assets/social/portfolio.svg" width="20" height="20" alt="" align="center" />&nbsp;Portfolio</a>
-<a href="https://www.linkedin.com/in/ayra-agrawal/"><img src="assets/social/linkedin.svg" width="20" height="20" alt="" align="center" />&nbsp;LinkedIn</a>
+<a href="https://ayra-agrawal-portfolio.vercel.app/"><img src="assets/social/portfolio.svg" width="20" height="20" alt="" align="center" />&nbsp;Portfolio</a>&ensp;
+<a href="https://www.linkedin.com/in/ayra-agrawal/"><img src="assets/social/linkedin.svg" width="20" height="20" alt="" align="center" />&nbsp;LinkedIn</a>&ensp;
 <a href="mailto:ayraagrawal@gmail.com"><img src="assets/social/email.svg" width="20" height="20" alt="" align="center" />&nbsp;Email</a>
 </p>
 
